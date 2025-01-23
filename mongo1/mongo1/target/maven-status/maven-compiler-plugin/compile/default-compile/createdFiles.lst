@@ -1,0 +1,4 @@
+com\example\mongo\mongo1\controller\TodoController.class
+com\example\mongo\mongo1\model\Todo.class
+com\example\mongo\mongo1\repo\TodoRepo.class
+com\example\mongo\mongo1\Mongo1Application.class
